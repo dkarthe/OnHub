@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title: GBWhatsapp
-author: KD
+author: sal
 categories:[ Apps, Whatsapp ]
 image: assets/images/4.jpg
 featured: true
@@ -10,7 +9,7 @@ published: true
 ---
 
 ***GBWhatsApp+***
-A material designed mod, that provides TONs of features including customization, themes, changing styles, app lock, conversation locks, PRIVACY mods, and many more!
+>A material designed mod, that provides TONs of features including customization, themes, changing styles, app lock, conversation locks, PRIVACY mods, and many more!
 
 GBWhatsApp apk is another mod by GB Team that has all the features of GBWhatsApp in it but has the signature “com.gbwhatsapp”. This mod will suffice all the need that you require from themeing your whatsapp to coustomising your  Experience.
 
