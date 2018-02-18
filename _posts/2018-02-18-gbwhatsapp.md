@@ -4,6 +4,7 @@ title: GBWhatsapp
 author: KD
 categories:[ Apps, Whatsapp ]
 image: assets/images/4.jpg
+featured: true
 ---
 ***GBWhatsApp+***
 A material designed mod, that provides TONs of features including customization, themes, changing styles, app lock, conversation locks, PRIVACY mods, and many more!
@@ -12,7 +13,7 @@ GBWhatsApp apk is another mod by GB Team that has all the features of GBWhatsApp
 
 `Features
 
- Removed the Redirect link when open the whatsapp
+Removed the Redirect link when open the whatsapp
 Media Privacy! Hide WhatsApp Media (Images/Videos/GIFs) from phone gallery (Fouad Mods > Option 7)!
 Switch between old and new emojis (Option 1.3.2)
 Contact Picture Outside message bubble (Options 3.4)
@@ -35,7 +36,7 @@ Other fixes …`
 
 *How to Install ?*
 
-Uninstall any previous version of gbwhatsapp plus; if installed
+`Uninstall any previous version of gbwhatsapp plus; if installed
 Download GBWhatsapp Plus apk
 Install the apk.
 Put your number + activation
@@ -43,8 +44,6 @@ Enjoy the brand new WhatsApp Plus.
 GBWhatsApp Downloads
 GBWhatsApp Plus v7.35:
 
-com.gbwhatsapp : Link 1/ Link 2 (51 MB)
+gbwhatsapp : [Download Link](https://dailyuploads.net/6kfd2fkb9ii8)
 
-[Stock] WhatsApp Plus v7.35:
 
-com.whatsapp : Link 1/ Link 2 (51 MB)
