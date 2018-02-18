@@ -1,11 +1,9 @@
 ---
 layout: post
-title: GBWhatsapp
+title:  "GBWhatsapp"
 author: sal
-categories:[ Apps, Whatsapp ]
-image: assets/images/4.jpg
-featured: true
-published: true
+categories: [ Jekyll, tutorial ]
+image: assets/images/6.jpg
 ---
 
 ***GBWhatsApp+***
