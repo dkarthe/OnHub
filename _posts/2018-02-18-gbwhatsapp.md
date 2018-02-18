@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GBWhatsapp"
-author: KD
+author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
 ---
