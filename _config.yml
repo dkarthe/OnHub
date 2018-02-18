@@ -8,14 +8,14 @@ paginate: 15
 baseurl: /
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: 'ooioo'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 # Authors
 authors:
   KD:
     name: KD
     display_name: KD
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 5a621643b01a4f99239190d5c6aec450
     email: support@onhub.me
     web: http://www.onhub.me
     twitter: https://twitter.com/gpaidapps
