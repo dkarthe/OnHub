@@ -15,7 +15,7 @@ authors:
   KD:
     name: KD
     display_name: KD
-    gravatar: 5a621643b01a4f99239190d5c6aec450
+    gravatar: assets/images/logo.ico
     email: support@onhub.me
     web: http://www.onhub.me
     twitter: https://twitter.com/gpaidapps
@@ -23,7 +23,7 @@ authors:
   Admin:
     name: John
     display_name: John
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    gravatar: assets/images/logo.ico
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
