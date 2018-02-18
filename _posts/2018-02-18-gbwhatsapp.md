@@ -1,5 +1,11 @@
 ---
-published: false
+layout: post
+title: GBWhatsapp
+author: KD
+categories:[ Apps, Whatsapp ]
+image: assets/images/4.jpg
+featured: true
+published: true
 ---
 ***GBWhatsApp+***
 A material designed mod, that provides TONs of features including customization, themes, changing styles, app lock, conversation locks, PRIVACY mods, and many more!
