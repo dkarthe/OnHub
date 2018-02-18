@@ -20,7 +20,7 @@ authors:
     web: http://www.onhub.me
     twitter: https://twitter.com/gpaidapps
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  #Admin:
+  Admin:
     name: John
     display_name: John
     gravatar: b1cc14991db7a456fcd761680bbc8f81
