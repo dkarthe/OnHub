@@ -1,9 +1,9 @@
 # Site
 name: OnHub
-description: A Modern UI Platform
+#description: A Modern UI Platform
 meta_description: "Tech Forever"
-logo: 'assets/images/favicon.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/logo.ico'
+favicon: 'assets/images/favicon.png'
 paginate: 15
 baseurl: /
 google_analytics: 'UA-XXXXXXXX-X'
