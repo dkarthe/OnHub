@@ -1,9 +1,9 @@
 # Site
 name: OnHub
-#description: A Modern UI Platform
+description: A Modern UI Platform
 meta_description: "Tech Forever"
 logo: 'assets/images/logo.ico'
-favicon: 'assets/images/favicon.png'
+favicon: 'assets/images/logo.ico'
 paginate: 15
 baseurl: /
 google_analytics: 'UA-XXXXXXXX-X'
@@ -15,15 +15,15 @@ authors:
   KD:
     name: KD
     display_name: KD
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: assets/images/logo.ico
     email: support@onhub.me
     web: http://www.onhub.me
     twitter: https://twitter.com/gpaidapps
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  #Admin:
+  Admin:
     name: John
     display_name: John
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    gravatar: assets/images/logo.ico
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
