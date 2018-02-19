@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">    
-<title>{{ page.title }} | {{site.name}}</title>
+<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.ico">    
+<title>{{page.title}} | {{ site.name }}</title>
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}    
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -54,21 +54,18 @@
                  <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip"><i class="fa fa-cloud download"></i> Download</a>
-                </li>
-
-                <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://www.facebook.com/nowuseme/"><i class="fa fa-facebook"></i></a>
                 </li>
-                <li class="nav-item">
-                <a target="_blank"  class="nav-link" href="https://github.com/"><i class="fa fa-github"></i></a>
-                </li>
-                <li class="nav-item">
+		<li class="nav-item">
                 <a target="_blank"  class="nav-link" href="https://twitter.com/gpaidapps"><i class="fa fa-twitter"></i></a>
                 </li>
                 <li class="nav-item">
                 <a target="_blank"  class="nav-link" href="https://plus.google.com/"><i class="fa fa-google-plus"></i></a>
+                </li>   
+                <li class="nav-item">
+                <a target="_blank"  class="nav-link" href="https://github.com/"><i class="fa fa-github"></i></a>
                 </li>
+                
             </ul>		
         </div>
         <!-- End Menu -->
@@ -102,6 +99,7 @@
 ================================================== -->
 <div class="alertbar">
 	<div class="container text-center">
+	<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
 		<img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter 
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group">
@@ -146,8 +144,8 @@
          Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
     </p>
     <p class="pull-right">
-    <!-- Please, leave credit to author unless you own a commercial license: https://www.wowthemes.net/freebies-license/ --> 
-        <a target="_blank" href="http://www.onhub.me">OnHub</a> 
+    <!-- Please, leave credit to author unless you own a commercial license: https://www.wowthemes.net/freebies-license/ -->                   
+          <a class="nav-link" href="{{ site.baseurl }}/contact">Contact</a>             
     </p>
     <div class="clearfix">
     </div>
