@@ -51,7 +51,8 @@ jekyll-archives:
     - news
     - trending
   layout: archive
-  permalinks: pretty
+  permalinks: 
+    	'/:categories/:year/:month/:day/:title'
     
     
 # Other
