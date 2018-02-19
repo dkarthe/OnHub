@@ -52,7 +52,7 @@ jekyll-archives:
     - trending
   layout: archive
   permalinks: 
-    	'/:categories/:year/:month/:day/:title'
+    category: '/:categories/:year/:month/:day/:title'
     
     
 # Other
