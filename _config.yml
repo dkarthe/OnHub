@@ -47,8 +47,8 @@ jekyll-archives:
   enabled:
     - categories
   layout: archive
-  permalinks: 
-    category: '/:categories/:year/:month/:day/:title/'
+  permalinks: pretty
+    
     
 # Other
 markdown: kramdown
