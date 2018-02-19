@@ -47,7 +47,7 @@ jekyll-archives:
   enabled:
     - categories
   layout: archive
-  permalinks: pretty
+  permalinks: 
     category: '/:categories/:year/:month/:day/:title/'
     
 # Other
