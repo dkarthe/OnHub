@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just Checking Post
-author: Admin
+author: KD
 image: assets/images/9.jpg
 featured: true
 ---
