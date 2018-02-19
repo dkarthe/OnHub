@@ -58,3 +58,5 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
+
+exclude: [node_modules, README.md]
