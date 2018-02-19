@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.ico">    
-<title>{{ page.title }} | {{site.name}}</title>
+<title>{{ site.name }} | {{page.title}}</title>
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}    
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -98,7 +98,7 @@
 <!-- Bottom Alert Bar
 ================================================== -->
 <div class="alertbar">
-	<div class="container text-center">
+	<div class="hidden-sm-down">
 		<img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter 
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group">
