@@ -44,6 +44,11 @@ plugins:
     
 # Archives
 jekyll-archives:
+categories:
+    - jekyll
+    - tutorial
+    - news
+    - trending
   enabled:
     - categories
   layout: archive
